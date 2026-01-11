@@ -2,6 +2,11 @@
 
 An interactive data visualization dashboard analyzing mental health resource accessibility across different income levels in California.
 
+
+## Demo Link
+https://mental-health-dashboard-hllo8auxe-duongngothuys-projects.vercel.app 
+
+
 ## Original link of the project
 https://github.com/duongngothuy/California-MentalHealth-Disparities
 
