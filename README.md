@@ -100,7 +100,7 @@ This will generate the JSON files needed by the application in `public/data/`.
 
 ### Deploy to Vercel
 
-1. Install Vercel CLI: `npm i -g vercel`
+1. Install Vercel CLI: `npm i -g vercel` or npx vercel if it has permission error
 2. Run: `vercel`
 3. Follow the prompts
 
