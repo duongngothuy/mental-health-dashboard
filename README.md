@@ -125,6 +125,3 @@ This will generate the JSON files needed by the application in `public/data/`.
 - U.S. Census Bureau
 - Covered California
 
----
-
-Built with ❤️ for better mental health access understanding
