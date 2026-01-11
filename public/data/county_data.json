@@ -1,0 +1,524 @@
+[
+  {
+    "county":"Alameda County",
+    "population":1681259,
+    "psychologist_count":188,
+    "Total_Products":5.4897959184,
+    "psychologists_per_100k":11.1820962743,
+    "County":"Alameda",
+    "AMI":147900
+  },
+  {
+    "county":"Alpine County",
+    "population":3928,
+    "psychologist_count":0,
+    "Total_Products":2.0,
+    "psychologists_per_100k":0.0,
+    "County":"Alpine",
+    "AMI":114600
+  },
+  {
+    "county":"Amador County",
+    "population":40609,
+    "psychologist_count":11,
+    "Total_Products":2.4545454545,
+    "psychologists_per_100k":27.0875914206,
+    "County":"Amador",
+    "AMI":101200
+  },
+  {
+    "county":"Butte County",
+    "population":213308,
+    "psychologist_count":6,
+    "Total_Products":2.6,
+    "psychologists_per_100k":2.812834024,
+    "County":"Butte",
+    "AMI":91600
+  },
+  {
+    "county":"Calaveras County",
+    "population":43122,
+    "psychologist_count":0,
+    "Total_Products":2.0,
+    "psychologists_per_100k":0.0,
+    "County":"Calaveras",
+    "AMI":96200
+  },
+  {
+    "county":"Colusa County",
+    "population":21896,
+    "psychologist_count":0,
+    "Total_Products":3.0,
+    "psychologists_per_100k":0.0,
+    "County":"Colusa",
+    "AMI":83800
+  },
+  {
+    "county":"Contra Costa County",
+    "population":1168801,
+    "psychologist_count":90,
+    "Total_Products":5.4418604651,
+    "psychologists_per_100k":7.7001987507,
+    "County":"Contra Costa",
+    "AMI":147900
+  },
+  {
+    "county":"Del Norte County",
+    "population":27462,
+    "psychologist_count":1,
+    "Total_Products":2.0,
+    "psychologists_per_100k":3.6413953827,
+    "County":"Del Norte",
+    "AMI":83800
+  },
+  {
+    "county":"El Dorado County",
+    "population":191728,
+    "psychologist_count":8,
+    "Total_Products":4.6086956522,
+    "psychologists_per_100k":4.1725778186,
+    "County":"El Dorado",
+    "AMI":113900
+  },
+  {
+    "county":"Fresno County",
+    "population":983243,
+    "psychologist_count":26,
+    "Total_Products":4.3090909091,
+    "psychologists_per_100k":2.6443107146,
+    "County":"Fresno",
+    "AMI":83800
+  },
+  {
+    "county":"Glenn County",
+    "population":29278,
+    "psychologist_count":0,
+    "Total_Products":2.2857142857,
+    "psychologists_per_100k":0.0,
+    "County":"Glenn",
+    "AMI":83800
+  },
+  {
+    "county":"Humboldt County",
+    "population":136355,
+    "psychologist_count":6,
+    "Total_Products":2.1142857143,
+    "psychologists_per_100k":4.4002786843,
+    "County":"Humboldt",
+    "AMI":83800
+  },
+  {
+    "county":"Imperial County",
+    "population":174094,
+    "psychologist_count":2,
+    "Total_Products":4.0666666667,
+    "psychologists_per_100k":1.1488046687,
+    "County":"Imperial",
+    "AMI":83800
+  },
+  {
+    "county":"Inyo County",
+    "population":5446,
+    "psychologist_count":0,
+    "Total_Products":2.0,
+    "psychologists_per_100k":0.0,
+    "County":"Inyo",
+    "AMI":85400
+  },
+  {
+    "county":"Kern County",
+    "population":899110,
+    "psychologist_count":7,
+    "Total_Products":4.9787234043,
+    "psychologists_per_100k":0.7785476749,
+    "County":"Kern",
+    "AMI":83800
+  },
+  {
+    "county":"Kings County",
+    "population":151386,
+    "psychologist_count":8,
+    "Total_Products":4.5,
+    "psychologists_per_100k":5.2845045116,
+    "County":"Kings",
+    "AMI":83800
+  },
+  {
+    "county":"Lake County",
+    "population":68024,
+    "psychologist_count":4,
+    "Total_Products":2.0,
+    "psychologists_per_100k":5.8802775491,
+    "County":"Lake",
+    "AMI":83800
+  },
+  {
+    "county":"Lassen County",
+    "population":34257,
+    "psychologist_count":1,
+    "Total_Products":2.5,
+    "psychologists_per_100k":2.9191114225,
+    "County":"Lassen",
+    "AMI":83800
+  },
+  {
+    "county":"Los Angeles County",
+    "population":9934597,
+    "psychologist_count":687,
+    "Total_Products":7.9898305085,
+    "psychologists_per_100k":6.9152276635,
+    "County":"Los Angeles",
+    "AMI":98200
+  },
+  {
+    "county":"Madera County",
+    "population":159088,
+    "psychologist_count":4,
+    "Total_Products":4.8461538462,
+    "psychologists_per_100k":2.5143316906,
+    "County":"Madera",
+    "AMI":83800
+  },
+  {
+    "county":"Marin County",
+    "population":293134,
+    "psychologist_count":71,
+    "Total_Products":5.0689655172,
+    "psychologists_per_100k":24.2210047282,
+    "County":"Marin",
+    "AMI":175000
+  },
+  {
+    "county":"Mariposa County",
+    "population":16129,
+    "psychologist_count":0,
+    "Total_Products":2.875,
+    "psychologists_per_100k":0.0,
+    "County":"Mariposa",
+    "AMI":83800
+  },
+  {
+    "county":"Mendocino County",
+    "population":90977,
+    "psychologist_count":3,
+    "Total_Products":2.0769230769,
+    "psychologists_per_100k":3.2975367401,
+    "County":"Mendocino",
+    "AMI":89700
+  },
+  {
+    "county":"Merced County",
+    "population":280132,
+    "psychologist_count":1,
+    "Total_Products":2.5789473684,
+    "psychologists_per_100k":0.3569745691,
+    "County":"Merced",
+    "AMI":83800
+  },
+  {
+    "county":"Modoc County",
+    "population":9350,
+    "psychologist_count":1,
+    "Total_Products":2.2,
+    "psychologists_per_100k":10.6951871658,
+    "County":"Modoc",
+    "AMI":83800
+  },
+  {
+    "county":"Mono County",
+    "population":26456,
+    "psychologist_count":2,
+    "Total_Products":2.25,
+    "psychologists_per_100k":7.5597218022,
+    "County":"Mono",
+    "AMI":95800
+  },
+  {
+    "county":"Monterey County",
+    "population":431745,
+    "psychologist_count":22,
+    "Total_Products":3.3548387097,
+    "psychologists_per_100k":5.0956004123,
+    "County":"Monterey",
+    "AMI":100400
+  },
+  {
+    "county":"Napa County",
+    "population":130757,
+    "psychologist_count":18,
+    "Total_Products":4.5,
+    "psychologists_per_100k":13.7659934076,
+    "County":"Napa",
+    "AMI":129600
+  },
+  {
+    "county":"Nevada County",
+    "population":96814,
+    "psychologist_count":2,
+    "Total_Products":3.125,
+    "psychologists_per_100k":2.0658169273,
+    "County":"Nevada",
+    "AMI":112500
+  },
+  {
+    "county":"Orange County",
+    "population":3147661,
+    "psychologist_count":189,
+    "Total_Products":7.2386363636,
+    "psychologists_per_100k":6.0044585487,
+    "County":"Orange",
+    "AMI":127800
+  },
+  {
+    "county":"Placer County",
+    "population":410054,
+    "psychologist_count":28,
+    "Total_Products":5.6,
+    "psychologists_per_100k":6.8283689465,
+    "County":"Placer",
+    "AMI":113900
+  },
+  {
+    "county":"Plumas County",
+    "population":18190,
+    "psychologist_count":0,
+    "Total_Products":2.125,
+    "psychologists_per_100k":0.0,
+    "County":"Plumas",
+    "AMI":83800
+  },
+  {
+    "county":"Riverside County",
+    "population":2433398,
+    "psychologist_count":53,
+    "Total_Products":7.9154929577,
+    "psychologists_per_100k":2.17802431,
+    "County":"Riverside",
+    "AMI":94500
+  },
+  {
+    "county":"Sacramento County",
+    "population":1580590,
+    "psychologist_count":103,
+    "Total_Products":7.5454545455,
+    "psychologists_per_100k":6.516553945,
+    "County":"Sacramento",
+    "AMI":113900
+  },
+  {
+    "county":"San Benito County",
+    "population":62665,
+    "psychologist_count":1,
+    "Total_Products":3.0,
+    "psychologists_per_100k":1.595787122,
+    "County":"San Benito",
+    "AMI":140200
+  },
+  {
+    "county":"San Bernardino County",
+    "population":2172604,
+    "psychologist_count":74,
+    "Total_Products":7.032967033,
+    "psychologists_per_100k":3.4060509877,
+    "County":"San Bernardino",
+    "AMI":94500
+  },
+  {
+    "county":"San Diego County",
+    "population":3323286,
+    "psychologist_count":266,
+    "Total_Products":8.6173913043,
+    "psychologists_per_100k":8.0041260367,
+    "County":"San Diego",
+    "AMI":116800
+  },
+  {
+    "county":"San Francisco County",
+    "population":851036,
+    "psychologist_count":155,
+    "Total_Products":5.0,
+    "psychologists_per_100k":18.2130955682,
+    "County":"San Francisco",
+    "AMI":175000
+  },
+  {
+    "county":"San Joaquin County",
+    "population":754032,
+    "psychologist_count":10,
+    "Total_Products":4.3333333333,
+    "psychologists_per_100k":1.3262036624,
+    "County":"San Joaquin",
+    "AMI":100300
+  },
+  {
+    "county":"San Luis Obispo County",
+    "population":276798,
+    "psychologist_count":33,
+    "Total_Products":2.9565217391,
+    "psychologists_per_100k":11.9220514599,
+    "County":"San Luis Obispo",
+    "AMI":113100
+  },
+  {
+    "county":"San Mateo County",
+    "population":724829,
+    "psychologist_count":70,
+    "Total_Products":5.1666666667,
+    "psychologists_per_100k":9.65745024,
+    "County":"San Mateo",
+    "AMI":175000
+  },
+  {
+    "county":"Santa Barbara County",
+    "population":445392,
+    "psychologist_count":29,
+    "Total_Products":2.75,
+    "psychologists_per_100k":6.5111182958,
+    "County":"Santa Barbara",
+    "AMI":107300
+  },
+  {
+    "county":"Santa Clara County",
+    "population":1941389,
+    "psychologist_count":146,
+    "Total_Products":5.0862068966,
+    "psychologists_per_100k":7.5203887526,
+    "County":"Santa Clara",
+    "AMI":181300
+  },
+  {
+    "county":"Santa Cruz County",
+    "population":285652,
+    "psychologist_count":14,
+    "Total_Products":4.7647058824,
+    "psychologists_per_100k":4.9010684329,
+    "County":"Santa Cruz",
+    "AMI":132800
+  },
+  {
+    "county":"Shasta County",
+    "population":174137,
+    "psychologist_count":5,
+    "Total_Products":2.0,
+    "psychologists_per_100k":2.8713024802,
+    "County":"Shasta",
+    "AMI":89800
+  },
+  {
+    "county":"Sierra County",
+    "population":3290,
+    "psychologist_count":0,
+    "Total_Products":2.625,
+    "psychologists_per_100k":0.0,
+    "County":"Sierra",
+    "AMI":90000
+  },
+  {
+    "county":"Siskiyou County",
+    "population":43151,
+    "psychologist_count":3,
+    "Total_Products":2.0952380952,
+    "psychologists_per_100k":6.9523301893,
+    "County":"Siskiyou",
+    "AMI":83800
+  },
+  {
+    "county":"Solano County",
+    "population":449823,
+    "psychologist_count":31,
+    "Total_Products":5.1333333333,
+    "psychologists_per_100k":6.8915995847,
+    "County":"Solano",
+    "AMI":112600
+  },
+  {
+    "county":"Sonoma County",
+    "population":462603,
+    "psychologist_count":47,
+    "Total_Products":4.1842105263,
+    "psychologists_per_100k":10.1598995251,
+    "County":"Sonoma",
+    "AMI":128100
+  },
+  {
+    "county":"Stanislaus County",
+    "population":555591,
+    "psychologist_count":5,
+    "Total_Products":4.68,
+    "psychologists_per_100k":0.8999425837,
+    "County":"Stanislaus",
+    "AMI":92600
+  },
+  {
+    "county":"Sutter County",
+    "population":98506,
+    "psychologist_count":0,
+    "Total_Products":3.3333333333,
+    "psychologists_per_100k":0.0,
+    "County":"Sutter",
+    "AMI":83800
+  },
+  {
+    "county":"Tehama County",
+    "population":71546,
+    "psychologist_count":0,
+    "Total_Products":2.2857142857,
+    "psychologists_per_100k":0.0,
+    "County":"Tehama",
+    "AMI":83800
+  },
+  {
+    "county":"Trinity County",
+    "population":15775,
+    "psychologist_count":2,
+    "Total_Products":2.6153846154,
+    "psychologists_per_100k":12.6782884311,
+    "County":"Trinity",
+    "AMI":83800
+  },
+  {
+    "county":"Tulare County",
+    "population":499653,
+    "psychologist_count":3,
+    "Total_Products":3.55,
+    "psychologists_per_100k":0.6004166892,
+    "County":"Tulare",
+    "AMI":83800
+  },
+  {
+    "county":"Tuolumne County",
+    "population":55850,
+    "psychologist_count":3,
+    "Total_Products":2.5714285714,
+    "psychologists_per_100k":5.3715308863,
+    "County":"Tuolumne",
+    "AMI":97700
+  },
+  {
+    "county":"Ventura County",
+    "population":853164,
+    "psychologist_count":48,
+    "Total_Products":4.724137931,
+    "psychologists_per_100k":5.6261164325,
+    "County":"Ventura",
+    "AMI":123500
+  },
+  {
+    "county":"Yolo County",
+    "population":218797,
+    "psychologist_count":16,
+    "Total_Products":7.4444444444,
+    "psychologists_per_100k":7.3127145253,
+    "County":"Yolo",
+    "AMI":114000
+  },
+  {
+    "county":"Yuba County",
+    "population":82873,
+    "psychologist_count":0,
+    "Total_Products":3.1666666667,
+    "psychologists_per_100k":0.0,
+    "County":"Yuba",
+    "AMI":83800
+  }
+]
