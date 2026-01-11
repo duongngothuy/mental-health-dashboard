@@ -5,10 +5,6 @@ An interactive data visualization dashboard analyzing mental health resource acc
 ## Original link of the project
 https://github.com/duongngothuy/California-MentalHealth-Disparities
 
-## Demo Links
-![Dashboard Preview](https://img.shields.io/badge/Status-Live-success)
-![React](https://img.shields.io/badge/React-18.3-blue)
-![Vite](https://img.shields.io/badge/Vite-7.3-purple)
 
 ## Project Overview
 
