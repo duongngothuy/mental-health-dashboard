@@ -1,8 +1,8 @@
-# Deployment Guide for Mental Health Dashboard
+# Deployment for Mental Health Dashboard
 
-## Option 1: Deploy to Vercel (Recommended - Easiest)
+## Option 1: Deploy to Vercel
 
-### Step 1: Prepare Your Project
+### Step 1: Prepare 
 ```bash
 cd mental-health-dashboard
 npm run build
@@ -36,8 +36,6 @@ vercel --prod
 - Output Directory: `dist`
 - Install Command: `npm install`
 
----
-
 ## Option 2: Deploy to Netlify
 
 ### Method A: Drag and Drop
@@ -69,8 +67,6 @@ netlify deploy --prod
    - Build command: `npm run build`
    - Publish directory: `dist`
 5. Click "Deploy site"
-
----
 
 ## Option 3: Deploy to GitHub Pages
 
@@ -111,8 +107,6 @@ npm run deploy
 4. Branch: gh-pages / root
 5. Save
 
----
-
 ## Option 4: Deploy to Render
 
 1. Go to https://render.com
@@ -122,21 +116,6 @@ npm run deploy
    - Build Command: `npm run build`
    - Publish Directory: `dist`
 5. Click "Create Static Site"
-
----
-
-## Post-Deployment Checklist
-
-✅ Test the live site thoroughly
-✅ Check all filters work correctly
-✅ Verify data loads properly
-✅ Test on mobile devices
-✅ Check browser console for errors
-✅ Verify all charts render correctly
-✅ Update README with live URL
-✅ Share your portfolio link!
-
----
 
 ## Custom Domain Setup
 
@@ -151,8 +130,6 @@ npm run deploy
 2. Add custom domain
 3. Configure DNS (Netlify provides DNS hosting)
 
----
-
 ## Environment Variables (if needed in the future)
 
 For Vercel:
@@ -164,52 +141,3 @@ For Netlify:
 1. Site settings → Environment variables
 2. Add variables
 
----
-
-## Troubleshooting
-
-### Build Fails
-- Check Node version (should be 16+)
-- Clear node_modules and reinstall: `rm -rf node_modules && npm install`
-- Check for any missing dependencies
-
-### Data Not Loading
-- Ensure data files are in `public/data/` directory
-- Check browser console for 404 errors
-- Verify JSON files are valid
-
-### 404 on Refresh
-- Add a `_redirects` file (Netlify) or `vercel.json` (Vercel) for SPA routing
-
-For Netlify (_redirects):
-```
-/*    /index.html   200
-```
-
-For Vercel (vercel.json):
-```json
-{
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
-}
-```
-
----
-
-## Performance Optimization
-
-1. **Image Optimization**: All images should be optimized
-2. **Code Splitting**: Consider lazy loading components
-3. **Bundle Analysis**: Run `npm run build -- --analyze`
-4. **CDN**: Both Vercel and Netlify provide global CDN
-
----
-
-## Monitoring
-
-- Use Vercel Analytics or Netlify Analytics
-- Set up Google Analytics if needed
-- Monitor Core Web Vitals
-
----
-
-**Recommended:** Start with Vercel for the easiest deployment experience!
